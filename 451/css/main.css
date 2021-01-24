@@ -16662,7 +16662,7 @@ a.chat-clone {
     top: 0;
     right: 0;
     background-clip: border-box;
-    background: url("/img/layout/profile-header.jpg") no-repeat center bottom;
+    background: url("../../img/layout/profile-header.jpg") no-repeat center bottom;
     background-size: 100% auto
 }
 
