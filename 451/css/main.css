@@ -2,6 +2,14 @@
  * Font Awesome Free 5.10.2 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
+ @font-face {
+    font-family: "Graphik Bold";
+    src: url("./fonts/Graphik-Bold-Web.woff2") format("woff2"),
+  }
+  @font-face {
+    font-family: "Graphik Bold";
+    src: url("./fonts/Graphik-Semibold-Web.woff2") format("woff2"),
+  }
  .fa,.fas,.far,.fal,.fad,.fab {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
